@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,QACE,YAAY,CACZ,cAAe,CACf,4BACF,CAEA,eACE,WACF","file":"main.a920af23.chunk.css","sourcesContent":[".movies{\r\n  display:flex;\r\n  flex-wrap: wrap; \r\n  justify-content: space-evenly;\r\n}\r\n\r\n.movies__movie{\r\n  width:300px;\r\n}"]}
